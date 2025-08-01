@@ -3,11 +3,11 @@
 Charitease is an online crowdfunding platform aimed at enhancing charitable donations by linking donors to verified nonprofits, making fundraising transparent, secure, and efficient.
 
 # Features
--**User Registration:** Users can sign up.
--**Campaign Management:** Create, edit, and track fundraising campaigns.
--**User-friendly interface:** Easy navigation for donors and nonprofits.
--**Admin Dashboard:** Manage users, campaigns, and monitor overall platform health.
--**Campaign filters:** Users can search for different types of campaigns using filters
+- **User Registration:** Users can sign up.
+- **Campaign Management:** Create, edit, and track fundraising campaigns.
+- **User-friendly interface:** Easy navigation for donors and nonprofits.
+- **Admin Dashboard:** Manage users, campaigns, and monitor overall platform health.
+- **Campaign filters:** Users can search for different types of campaigns using filters
 
 # Technologies used
 - HTMl
